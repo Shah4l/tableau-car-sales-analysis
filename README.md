@@ -26,4 +26,4 @@ This project analyzes car sales performance using Tableau.
 
 ## Dashboard Preview
 
-![Car Sales Analysis](car-sales-analysis.png)
+![Car Sales Analysis](tableau-car-sales-analysis.png)
